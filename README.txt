@@ -3,3 +3,5 @@
 Hello Git and GitHub!
 
 Let's try to figure out the differences between various commits...
+
+Now again: what's the diff?
